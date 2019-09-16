@@ -97,6 +97,10 @@
 		1292C184232F86C400421BE0 /* assigment */ = {
 			isa = PBXGroup;
 			children = (
+				1292C1B6232F877500421BE0 /* stroryboard */,
+				1292C1B5232F875600421BE0 /* controller */,
+				1292C1B4232F874B00421BE0 /* viewcontroller */,
+				1292C1B3232F873B00421BE0 /* model */,
 				1292C185232F86C400421BE0 /* AppDelegate.swift */,
 				1292C187232F86C400421BE0 /* ViewController.swift */,
 				1292C189232F86C400421BE0 /* Main.storyboard */,
@@ -123,6 +127,34 @@
 				1292C1A7232F86C500421BE0 /* Info.plist */,
 			);
 			path = assigmentUITests;
+			sourceTree = "<group>";
+		};
+		1292C1B3232F873B00421BE0 /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		1292C1B4232F874B00421BE0 /* viewcontroller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = viewcontroller;
+			sourceTree = "<group>";
+		};
+		1292C1B5232F875600421BE0 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		1292C1B6232F877500421BE0 /* stroryboard */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = stroryboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
